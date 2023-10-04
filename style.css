@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: #2771BA; /* Light blue background color */
+}
+
+h1, h2, h3, p, ul {
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+}
